@@ -1,0 +1,11 @@
+## General
+- Catastrophic Forgetting in Neural Networks
+- KV Cache
+- DeepSeekMath GRPO
+- Initializing parameters of ML models for faster convergence
+- Scaling Laws for Neural Language Models
+- Diffusion Models
+- LoRA: Low-Rank Adaptation of Large Language Models
+- Context Streaming and Compression
+- GPT-4 Technical Report (model evaluation)
+- )
