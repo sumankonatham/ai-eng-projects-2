@@ -8,4 +8,4 @@
 - LoRA: Low-Rank Adaptation of Large Language Models
 - Context Streaming and Compression
 - GPT-4 Technical Report (model evaluation)
-- )
+- On weight initialization in deep neural networks[Reference](https://arxiv.org/abs/1704.08863)

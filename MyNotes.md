@@ -1,3 +1,9 @@
+##
+
+- Deep Dive into LLMs like ChatGPT - by Andrej Karpathy [Reference](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+  - https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+  - https://bbycroft.net/llm
+
 ## Neural Network
 
 - 3Blue1Brown: But What Is a Neural Network? — Intuitive visual introduction to perceptrons, activation functions, and training via gradient descent. [Reference](https://www.youtube.com/watch?v=aircAruvnKk)
