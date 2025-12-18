@@ -9,3 +9,24 @@
 - Context Streaming and Compression
 - GPT-4 Technical Report (model evaluation)
 - On weight initialization in deep neural networks[Reference](https://arxiv.org/abs/1704.08863)
+- Parameter-Efficient Transfer Learning for NLP [Reference](https://arxiv.org/abs/1902.00751)
+- LoRA: Low-Rank Adaptation of Large Language Models [Reference](https://arxiv.org/abs/2106.09685)
+- HuggingFace PEFT Library [Reference](https://huggingface.co/docs/peft/en/index)
+- Prompt Engineering Guide [Reference](https://www.promptingguide.ai/)
+- Hyperbolic [Reference](https://www.hyperbolic.ai/)
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [Reference](https://arxiv.org/abs/2201.11903)
+- Large Language Models are Zero-Shot Reasoners [Reference](https://arxiv.org/abs/2205.11916)
+- https://scikit-learn.org/stable/modules/neighbors.html
+- Meta FAISS
+- google search SCANN
+- Qwen3 embedding model [Reference](https://arxiv.org/abs/2506.05176)
+- OpenAI CLIP
+- vLLM
+- Automated document parsing [Reference](https://github.com/ispras/dedoc)
+- Layout Parser [Reference](https://layout-parser.github.io/)
+- Text Splitters in LangChain [Reference](https://docs.langchain.com/oss/python/integrations/splitters/)
+- Efficient Estimation of Word Representations in Vector Space[Reference](https://arxiv.org/abs/1301.3781)
+- OpenAI vector Embeddings [Reference](https://platform.openai.com/docs/guides/embeddings)
+- OpenAI CLIP [Reference](https://openai.com/index/clip/)
+- Context Engineering - Short-Term Memory Management with Sessions from OpenAI Agents SDK [Reference](https://cookbook.openai.com/examples/agents_sdk/session_memory)
+- RAFT: Adapting Language Model to Domain Specific RAG [Reference](https://arxiv.org/abs/2403.10131)
